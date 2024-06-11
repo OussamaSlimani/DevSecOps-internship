@@ -1,35 +1,22 @@
----
-title: "[]{#_reciufrt7ero .anchor}**DevOps** "
----
+# **DevOps**
 
 # 1. What is DevOps?
 
-DevOps is a set of practices that combine software development (Dev) and
-IT operations (Ops) to shorten the development lifecycle and deliver
-high-quality software continuously. The goal of DevOps is to automate
-and integrate the processes between software development and IT teams,
-allowing them to build, test, and release software faster and more
-reliably.
+DevOps is a set of practices that combine software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously. The goal of DevOps is to automate and integrate the processes between software development and IT teams, allowing them to build, test, and release software faster and more reliably.
 
 ## Traditional Scenario
 
-\- **Developers:** write the code and push it to a repository (e.g.,
-GitHub).
-
+\- **Developers:** write the code and push it to a repository (e.g., GitHub).
 \- **Operations teams:** manage the servers and infrastructure.
-
-**⇒** Often, there are conflicts when the code works on the developer\'s
-machine but not in the server environment.
+**⇒** Often, there are conflicts when the code works on the developer\'s machine but not in the server environment.
 
 ## Challenges in the Application Release Process
 
 ### **Miscommunication and Lack of Collaboration**
 
-\- Developers and operations teams often work in silos, leading to
-delays and errors.
+\- Developers and operations teams often work in silos, leading to delays and errors.
 
-\- Developers may not consider deployment environments, while operations
-teams may not understand the code thoroughly.
+\- Developers may not consider deployment environments, while operations teams may not understand the code thoroughly.
 
 ### **Different Incentives**
 
@@ -39,24 +26,19 @@ teams may not understand the code thoroughly.
 
 ### **Security and Testing Roadblocks**
 
-\- Manual security evaluations and testing processes can significantly
-delay releases.
+\- Manual security evaluations and testing processes can significantly delay releases.
 
 \- Manual Processes
 
-\- Manual deployments and infrastructure configurations are slow and
-error-prone.
+\- Manual deployments and infrastructure configurations are slow and error-prone.
 
 ## DevOps Solution
 
-DevOps engineers bridge the gap between development and operations by
-automating the software development lifecycle (SDLC), ensuring seamless
-and efficient collaboration between the two teams.
+DevOps engineers bridge the gap between development and operations by automating the software development lifecycle (SDLC), ensuring seamless and efficient collaboration between the two teams.
 
 ## Why DevOps is Needed
 
-DevOps addresses key challenges in the traditional software development
-and release process, such as:
+DevOps addresses key challenges in the traditional software development and release process, such as:
 
 \- Miscommunication between development and operations teams
 
@@ -70,11 +52,9 @@ and release process, such as:
 
 ### **Evolution**
 
-\- Initially, DevOps was about fostering better communication and
-collaboration between development and operations.
+\- Initially, DevOps was about fostering better communication and collaboration between development and operations.
 
-\- Over time, it evolved into a specialized role known as a DevOps
-Engineer.
+\- Over time, it evolved into a specialized role known as a DevOps Engineer.
 
 ### **Role of DevOps Engineer**
 
@@ -90,24 +70,18 @@ Engineer.
 
 # 2. The DevOps Lifecycle
 
-![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image8.png){width="5.145833333333333in"
-height="2.27253937007874in"}
+![1718086417633](images/001-DevOps/1718086417633.png)
 
-The DevOps Lifecycle is a series of stages that help in developing,
-deploying, and maintaining software applications efficiently:
+The DevOps Lifecycle is a series of stages that help in developing, deploying, and maintaining software applications efficiently:
 
 ## Planning
 
 In this stage, the team defines the project\'s goals and requirements.
-They discuss what needs to be built, the timeline, and the resources
-required. Planning ensures everyone understands the objectives and how
-to achieve them.
+They discuss what needs to be built, the timeline, and the resources required. Planning ensures everyone understands the objectives and how to achieve them.
 
 ## Development
 
-During development, programmers write the code for the application. They
-use different programming languages and tools to create the features
-planned. This stage often involves:
+During development, programmers write the code for the application. They use different programming languages and tools to create the features planned. This stage often involves:
 
 \- Writing code
 
@@ -117,23 +91,16 @@ planned. This stage often involves:
 
 ## Continuous Integration (CI)
 
-Continuous Integration means regularly merging all developers\' code
-changes into a shared repository. This helps find and fix problems
-early. Tools automatically build and test the new code to ensure it
-integrates well with the existing codebase.
+Continuous Integration means regularly merging all developers\' code changes into a shared repository. This helps find and fix problems early. Tools automatically build and test the new code to ensure it integrates well with the existing codebase.
 
 ## Continuous Testing
 
-Testing is crucial to ensure the software works correctly. Continuous
-Testing involves running automated tests to check for bugs or issues.
-These tests happen frequently, usually every time new code is
-integrated. It helps catch problems early, making them easier to fix.
+Testing is crucial to ensure the software works correctly. Continuous Testing involves running automated tests to check for bugs or issues.
+These tests happen frequently, usually every time new code is integrated. It helps catch problems early, making them easier to fix.
 
 ## Continuous Deployment (CD)
 
-Continuous Deployment means automatically deploying the tested code to
-production, where users can access it. This stage ensures that new
-features or fixes reach users quickly. It involves:
+Continuous Deployment means automatically deploying the tested code to production, where users can access it. This stage ensures that new features or fixes reach users quickly. It involves:
 
 \- Automating the release process
 
@@ -141,36 +108,23 @@ features or fixes reach users quickly. It involves:
 
 ## Monitoring and Logging
 
-After deployment, the software needs to be monitored to ensure it runs
-smoothly. Monitoring tools check the application's performance, such as
-response times and error rates. Logging involves recording system
-activities to help diagnose issues when they occur.
+After deployment, the software needs to be monitored to ensure it runs smoothly. Monitoring tools check the application's performance, such as response times and error rates. Logging involves recording system activities to help diagnose issues when they occur.
 
 ## Feedback and Optimization
 
-Feedback is gathered from users and monitoring tools to understand how
-the application performs and meets user needs. This feedback helps
-identify areas for improvement. The team uses this information to
-optimize the software, making it better and more efficient.
+Feedback is gathered from users and monitoring tools to understand how the application performs and meets user needs. This feedback helps identify areas for improvement. The team uses this information to optimize the software, making it better and more efficient.
 
 ## Continuous Improvement
 
-DevOps is an ongoing process. Continuous Improvement involves regularly
-reviewing all stages of the lifecycle to find ways to enhance the
-process. It means learning from experiences and making adjustments to
-improve speed, quality, and reliability.
+DevOps is an ongoing process. Continuous Improvement involves regularly reviewing all stages of the lifecycle to find ways to enhance the process. It means learning from experiences and making adjustments to improve speed, quality, and reliability.
 
 # 3. Pathways to Becoming a DevOps Engineer
 
-To become a DevOps engineer, you need to acquire a diverse set of skills
-that cover both development and operations.
+To become a DevOps engineer, you need to acquire a diverse set of skills that cover both development and operations.
 
-## Git for Version Control: 
+## Git for Version Control:
 
-Version control, using Git, is important for tracking code changes,
-collaborating with teams, ensuring a reliable history of software
-development, and facilitating essential DevOps practices such as CI/CD,
-GitOps, and storing Infrastructure as Code (IaC) files.
+Version control, using Git, is important for tracking code changes, collaborating with teams, ensuring a reliable history of software development, and facilitating essential DevOps practices such as CI/CD, GitOps, and storing Infrastructure as Code (IaC) files.
 
 ### **What should you know:**
 
@@ -182,15 +136,9 @@ GitOps, and storing Infrastructure as Code (IaC) files.
 
 \- GitHub/GitLab
 
-![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image1.png){width="0.8088090551181102in"
-height="0.8088090551181102in"}
+## Operating System (Linux):
 
-## Operating System (Linux): 
-
-As a DevOps engineer, you manage the servers where applications run.
-Linux is the go-to choice for servers, and Most DevOps tools are
-Linux-based; so knowing Linux commands helps a lot in server management
-and handling DevOps Tasks.
+As a DevOps engineer, you manage the servers where applications run. Linux is the go-to choice for servers, and Most DevOps tools are Linux-based; so knowing Linux commands helps a lot in server management and handling DevOps Tasks.
 
 ### **What should you know?**
 
@@ -203,9 +151,6 @@ and handling DevOps Tasks.
 \- File System Permissions Package Management (apt, yum)
 
 \- Process and Service Management (ps, kill)
-
-![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image13.png){width="2.2375732720909887in"
-height="1.2602810586176727in"}
 
 ## Scripting/Programming:
 
@@ -314,7 +259,7 @@ height="2.0197462817147858in"}
 With IaC, we employ coding techniques to establish and configure
 infrastructure, facilitated by two main types of tools:
 
-### **1. Infrastructure Provisioning:** 
+### **1. Infrastructure Provisioning:**
 
 This involves programmatically generating virtualized resources, such as
 cloud servers, using tools like Terraform to define and deploy
@@ -323,7 +268,7 @@ infrastructure.
 ![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image11.png){width="2.685489938757655in"
 height="0.7622058180227471in"}
 
-### **2. Configuration Management:** 
+### **2. Configuration Management:**
 
 This ensures the continuity of consistent configurations for virtualized
 resources over time, all managed through code. For instance, Ansible
@@ -332,7 +277,7 @@ playbooks are used to define and enforce server configurations.
 ![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image2.png){width="1.319225721784777in"
 height="1.319225721784777in"}
 
-### **Benefits of having everything in code** 
+### **Benefits of having everything in code**
 
 \- Ensures consistency across different environments (e.g., stage, dev,
 prod).
@@ -369,7 +314,7 @@ deployment, and capable of running consistently on any machine.
 ![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image6.png){width="2.3938232720909887in"
 height="0.7089720034995626in"}
 
-## Container Orchestration (Kubernetes) 
+## Container Orchestration (Kubernetes)
 
 When using microservices an application can have hundreds or thousands
 of containers on multiple servers. Managing, scaling and other
@@ -411,7 +356,7 @@ and speeds up the delivery of software innovations.
 
 \- Trigger build
 
-### **Popular tools** 
+### **Popular tools**
 
 Jenkins is widely used for automating the build and deployment
 processes.
@@ -419,7 +364,7 @@ processes.
 ![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image10.png){width="1.8921423884514437in"
 height="1.3965813648293963in"}
 
-## Monitoring and Logging 
+## Monitoring and Logging
 
 \- Continuous monitoring post-release is essential for tracking
 performance and detecting issues promptly.
@@ -435,13 +380,13 @@ process.
 analysis, aiding in issue diagnosis, ensuring reliability, and informing
 data-driven decisions in software delivery.
 
-### **Popular tools** 
+### **Popular tools**
 
 Grafana
 
 ![](vertopal_98a101cf38b247718bf49d4594b0f9b8/media/image9.png){width="2.1770833333333335in"
 height="0.9528652668416447in"}
 
-## Agile Development: 
+## Agile Development:
 
 Understanding Agile methodologies and practices.
