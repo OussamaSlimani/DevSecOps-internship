@@ -258,7 +258,8 @@ Jenkins is widely used for automating the build and deployment processes.
 
 #### 3.10.1 Popular tools
 
-Grafana
+- Logging Tools : ELK Stack (Elasticsearch, Logstash, Kibana)
+- Monitoring Tools : Grafana, Nagios, Prometheus
 
 ### 3.11 Agile Development
 
