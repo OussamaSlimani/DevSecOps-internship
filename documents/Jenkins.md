@@ -43,7 +43,7 @@ Jenkins is a powerful tool for automating software development processes. It hel
 
 ## 5.How to Install Jenkins in Ubuntu
 
-![Alt text](media/jenkins.png)
+![Alt text](media/Jenkins.png.png)
 
 **_Attention_**
 Make sure you choose a machine with at least 1GB of RAM. If you don’t have enough internal memory, Jenkins won’t run. For decent performance, 2 to 4GB is ideal.
