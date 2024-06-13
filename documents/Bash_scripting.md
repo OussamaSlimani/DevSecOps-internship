@@ -295,7 +295,9 @@ sudo shutdown -h now
 sudo shutdown -r now
 sudo shutdown -h +10 "System will shutdown in 10 minutes"
 ```
-## 34.Hello World Script
+# shell scripting
+
+## 1.Hello World Script
 
 Prints "Hello, World!" to the terminal.
 
@@ -304,7 +306,7 @@ Prints "Hello, World!" to the terminal.
 echo "Hello, World!"
 ```
 
-## 35.Variables
+## 2.Variables
 
 Declares and uses variables.
 
@@ -314,7 +316,7 @@ name="Alice"
 echo "Hello, $name"
 ```
 
-## 36.User Input
+## 3.User Input
 
 Reads user input.
 
@@ -325,7 +327,7 @@ read name
 echo "Hello, $name"
 ```
 
-## 36.If Statement
+## 4.If Statement
 
 Uses conditions to execute code blocks.
 
@@ -340,7 +342,7 @@ else
 fi
 ```
 
-## 37.For Loop
+## 5.For Loop
 
 Repeats code for a list of values.
 
@@ -352,7 +354,7 @@ do
 done
 ```
 
-## 38.While Loop
+## 6.While Loop
 
 Repeats code while a condition is true.
 
@@ -366,7 +368,7 @@ do
 done
 ```
 
-## 39.Functions
+## 7.Functions
 
 Declares and calls functions.
 
@@ -379,7 +381,7 @@ greet "Alice"
 greet "Bob"
 ```
 
-## 40.Command Substitution
+## 8.Command Substitution
 
 Uses the output of a command in a variable.
 
@@ -389,7 +391,7 @@ current_date=$(date)
 echo "Today's date is: $current_date"
 ```
 
-## 41.String Manipulation
+## 9.String Manipulation
 
 Extracts a substring from a string.
 
@@ -399,7 +401,7 @@ str="Hello, World!"
 echo ${str:7:5}
 ```
 
-## 42.File Test Operators
+## 10.File Test Operators
 
 Checks if a file exists.
 
@@ -413,7 +415,7 @@ else
 fi
 ```
 
-## 43.Basic Arithmetic
+## 11.Basic Arithmetic
 
 Performs simple arithmetic operations.
 
@@ -425,7 +427,7 @@ sum=$((num1 + num2))
 echo "Sum is: $sum"
 ```
 
-## 44.Reading a File Line by Line
+## 12.Reading a File Line by Line
 
 Reads a file line by line and prints each line.
 
@@ -437,7 +439,7 @@ do
 done < "file.txt"
 ```
 
-## 45.Case Statement
+## 13.Case Statement
 
 Uses a case statement for multiple selections.
 
