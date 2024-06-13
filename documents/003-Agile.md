@@ -34,95 +34,99 @@ At the end of the sprint, a review meeting showcases the completed work to stake
 
 Agile development methods are a collection of frameworks and practices that prioritize flexibility, collaboration, and rapid delivery of software. Unlike traditional, waterfall-style development, Agile methodologies break down projects into smaller, more manageable pieces and emphasize continuous learning and adaptation throughout the development process.
 
-### 3.1 Scrum
-
-![Alt text](media/scrum.png)
-
-A framework known for its time-boxed sprints (usually 1-4 weeks) and well-defined roles like the Product Owner, Development Team, and Scrum Master. The Scrum team works collaboratively to complete a set of user stories within each sprint and holds daily stand-up meetings and sprint review/retrospective meetings to ensure progress and identify areas for improvement.
-
-#### 3.1.1 Roles in Scrum
-
-- **The Team**: Consists of developers, testers, architects, and other roles needed to complete the project. Ideally, the team is made up of 6 to 10 people.
-- **Product Owner**: Represents the customer. Defines the product features and priorities. Validates the functionality.
-- **Scrum Master**: Ensures the team follows Scrum processes and facilitates communication.
-
-#### 3.1.2 User Story
-
-A user story describes the user experience in simple language. For example, “As a user, I want to see the local time when I enter a city name.”
-
-#### 3.1.3 Product Backlog
-
-This is a prioritized list of user stories and requirements, acting as a to-do list for the project. The Product Owner manages this backlog.
-
-#### 3.1.4 Sprints
-
-- **Sprints**: The project is divided into small iterations called sprints, usually lasting 2 to 4 weeks.
-- **Sprint Planning Meeting**: At the beginning of each sprint, the team selects items from the product backlog to work on.
-
-#### 3.1.5 Daily Scrum Meetings
-
-A 15-minute daily meeting where team members discuss:
-
-- What they did yesterday
-- What they plan to do today
-- Any problems they are facing
-
-#### 3.1.6 Sprint Review
-
-At the end of each sprint, the team demonstrates the completed work to the Product Owner and receives feedback.
-
-#### 3.1.7 Sprint Retrospective
-
-The team reflects on the sprint, discussing what went well, what didn’t, and how they can improve in the next sprint.
-
-### 3.2 Kanban
+### 3.1 Kanban
 
 A visual method that uses boards to track the progress of tasks through different stages (e.g., To Do, In Progress, Done). Kanban boards are known for their simplicity and flexibility, allowing teams to visualize their workflow and easily manage work in progress.
 
-### 3.3 Lean Software Development
+### 3.2 Lean Software Development
 
 An approach that focuses on eliminating waste and maximizing value in the development process. Lean principles like just-in-time development and continuous improvement are often incorporated into Agile methodologies.
 
-### 3.4 Extreme Programming (XP)
+### 3.3 Extreme Programming (XP)
 
 A set of practices that emphasize close collaboration, continuous testing, and rapid feedback. XP practices include pair programming, test-driven development, and short-release cycles.
 
-### 3.5 Crystal
+### 3.4 Crystal
 
 A family of Agile methodologies that emphasizes lightweight processes and adaptation based on project needs. There are different Crystal methodologies (e.g., Crystal Clear, Crystal Serenity) suited for projects of varying sizes and complexities.
 
-## 4. Choosing the Right Agile Method
+### 3.5 Scrum
 
-### 4.1 Project Size and Complexity
+#### 3.1.1 What is Scrum?
 
-Scrum and Kanban might be well-suited for smaller projects, while XP or a Crystal methodology could be better for larger, more complex projects.
+![Alt text](media/what-is-scrum.png)
 
-### 4.2 Team Culture and Experience
+- Scrum is a popular framework that is used whenever we want to develop complex products.
+- Scrum allows us to develop products of the highest value while making sure that we maintain creativity and productivity.
+- The iterative and incremental approach used in scrum allows the teams to adapt to the changing requirements.
 
-Some methods, like XP with its emphasis on pair programming, require a more collaborative team environment.
+#### 3.1.2 Key Terminologies of Scrum
 
-### 4.3 Project Requirements and Level of Uncertainty
+- **Product Backlog:** The prioritized list of fixes as well as features that is included in the product’s roadmap.
+- **Sprint:** The time-box event which typically lasts from one week to four weeks, in this phase a product increment or iteration occurs.
+- **Development Team:** Group of individuals who are professional in their field and are responsible for product delivery.
+- **Daily Scrum:** A 15 minute daily meeting used by the development team to integrate activities and to create a plan for the next 24 hours of development.
+- **Sprint Review:** The sprint review is held at the end of the sprint in which the team presents all the work that is completed to their stakeholders and the stakeholders give back their feedback.
+- **Sprint Retrospective:** The sprint retrospective is a meeting concluded at the end of each sprint so that the team can discuss what went well and what could be improved as well as how to make those improvements.
 
-If requirements are likely to change frequently, Kanban's flexibility might be a good fit.
+![Alt text](media/key-scrum.png)
 
-## 5. How to Use the Agile Method in Remote Work
+#### 3.1.3 How does Scrum Work?
 
-### 5.1 Weekly Meetings
+Scrum divides projects into smaller, more manageable units called **sprints**, which span two to **four weeks** on average. During these sprints, cross-functional teams work together to generate product increments that might potentially be shipped. It uses tools like the **product backlog** and **sprint backlog**, as well as regular events like sprint planning, daily stand-ups, sprint reviews, and retrospectives, to promote transparency, inspection, and adaptation. In the end, this helps teams respond rapidly to changes and produce value iteratively.
 
-Hold a virtual meeting every week to discuss progress, address issues, and plan tasks.
+#### 3.1.4 What are Scrum Artifacts?
 
-### 5.2 Daily Standups
+- **Sprint Backlog:** The list of everything which the team commits to achieve in a sprint is known as Sprint Backlog. If it is developed once nobody can add to the sprint backlog except the development team.
+- **Product Backlog:** The ordered list of every single thing which is needed in the product based on the product goal is known as product backlog. It is never complete, and it is always evolving.
+- **Product Increments:** Lastly at the end of each sprint the development team delivers a product increment which is potentially releasable.
 
-Have short daily check-in meetings to keep everyone updated and aligned on goals.
+![Alt text](media/art-scrum.png)
 
-### 5.3 Clear Communication
+#### 3.1.5 What are Scrum Roles?
 
-Use tools like Slack or Teams for constant communication and quick updates.
+- **Scrum Team:** Scrum team is a collection of individuals from the company (typically 6-10 people) who make sure to deliver the project requirements or increments.
+- **Product Owner:** The project owner represents the stakeholders and they are the ones responsible for prioritizing the backlog which ultimately leads to maximum value and team work.
+- **Scrum Master:** The scrum master is an important individual who serves as a guide and mentor to make sure their team understands the scrum framework and it’s values. the scrum master is highly involved dealing with day to day tasks with their team members.
 
-### 5.4 Task Management Tools
+![Alt text](media/rule-scrum.png)
 
-Use platforms like Trello, Jira, or Asana to assign, track, and manage tasks.
+#### 3.1.6 What is scrum cycle?
 
-### 5.5 Regular Feedback
+- **Step 1:** The scrum cycle is a complete cycle of product development which starts with the Product Owner, the product owner defines all the product backlog and requirements for further development.
 
-Provide regular feedback and adapt plans based on team input and project needs.
+- **Step 2:** The next step is handled by the scrum team and the scrum team manages the Sprint Planning in the sprint planning phase the team plans all the tasks and roles for the development of the product.
+
+- **Step 3:** Then in the next phase the team deals with the sprint backlogs which are due and deals accordingly with all the backlogs left.
+
+- **Step 4:** As we know the scrum master is someone who overseas all the tasks of the team and acts as a mentor for the team, so in this step the scrum master overseas and collaborates with the team to make sure the product is ready on time, this cycle typically lasts from 1 to 4 weeks but depending on the project size it varies a lot, which is why sometimes for larger projects, it’s also divided into smaller part known as Daily Scrum.
+
+- **Step 5:** This is the final process stage, in this stage the team integrates all the modules of the project and tests the various components of the product.
+
+![Alt text](media/cycle-process.png)
+
+#### 3.1.7 What are Scrum metrics?
+
+- **Velocity**
+
+Velocity is a key Scrum metric that measures the amount of work a team can deliver during a sprint.
+
+![Velocity over Sprints](media/scrum-velocity-over-sprints.png)
+
+- **Velocity Chart**
+
+![Velocity Chart](media/scrum-vl.png)
+![Velocity Chart](media/scrum-vl2.png)
+![Velocity Chart](media/scrum-vl3.png)
+![Velocity Chart](media/scrum-vl4.png)
+
+- **Team Capacity**
+  When estimating Sprint capacity, forecasting the team members holiday plans,meetings and working hrs commitments per sprint is very valuable
+
+  ![Velocity Chart](media/capacity.png)
+
+- **Sprint Burn-down**
+
+Sprint burn-down helps teams measure the work remaining during the sprint's execution. It is a visual representation, usually a line chart over time, that shows the rate at which the team completes work compared to how much work is still needed.
+
+![Sample Sprint Burndown Chart](media/Sample-Sprint-Burn-Down-Chart.png)
