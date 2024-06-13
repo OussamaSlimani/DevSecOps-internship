@@ -295,3 +295,168 @@ sudo shutdown -h now
 sudo shutdown -r now
 sudo shutdown -h +10 "System will shutdown in 10 minutes"
 ```
+## 34.Hello World Script
+
+Prints "Hello, World!" to the terminal.
+
+```sh
+#!/bin/bash
+echo "Hello, World!"
+```
+
+## 35.Variables
+
+Declares and uses variables.
+
+```sh
+#!/bin/bash
+name="Alice"
+echo "Hello, $name"
+```
+
+## 36.User Input
+
+Reads user input.
+
+```sh
+#!/bin/bash
+echo "Enter your name:"
+read name
+echo "Hello, $name"
+```
+
+## 36.If Statement
+
+Uses conditions to execute code blocks.
+
+```sh
+#!/bin/bash
+echo "Enter a number:"
+read number
+if [ $number -gt 10 ]; then
+  echo "The number is greater than 10"
+else
+  echo "The number is 10 or less"
+fi
+```
+
+## 37.For Loop
+
+Repeats code for a list of values.
+
+```sh
+#!/bin/bash
+for i in 1 2 3 4 5
+do
+  echo "Number: $i"
+done
+```
+
+## 38.While Loop
+
+Repeats code while a condition is true.
+
+```sh
+#!/bin/bash
+count=1
+while [ $count -le 5 ]
+do
+  echo "Count: $count"
+  ((count++))
+done
+```
+
+## 39.Functions
+
+Declares and calls functions.
+
+```sh
+#!/bin/bash
+greet() {
+  echo "Hello, $1"
+}
+greet "Alice"
+greet "Bob"
+```
+
+## 40.Command Substitution
+
+Uses the output of a command in a variable.
+
+```sh
+#!/bin/bash
+current_date=$(date)
+echo "Today's date is: $current_date"
+```
+
+## 41.String Manipulation
+
+Extracts a substring from a string.
+
+```sh
+#!/bin/bash
+str="Hello, World!"
+echo ${str:7:5}
+```
+
+## 42.File Test Operators
+
+Checks if a file exists.
+
+```sh
+#!/bin/bash
+file="test.txt"
+if [ -e $file ]; then
+  echo "$file exists"
+else
+  echo "$file does not exist"
+fi
+```
+
+## 43.Basic Arithmetic
+
+Performs simple arithmetic operations.
+
+```sh
+#!/bin/bash
+num1=5
+num2=3
+sum=$((num1 + num2))
+echo "Sum is: $sum"
+```
+
+## 44.Reading a File Line by Line
+
+Reads a file line by line and prints each line.
+
+```sh
+#!/bin/bash
+while IFS= read -r line
+do
+  echo "$line"
+done < "file.txt"
+```
+
+## 45.Case Statement
+
+Uses a case statement for multiple selections.
+
+```sh
+#!/bin/bash
+echo "Enter a number between 1 and 3:"
+read number
+case $number in
+  1)
+    echo "You entered one"
+    ;;
+  2)
+    echo "You entered two"
+    ;;
+  3)
+    echo "You entered three"
+    ;;
+  *)
+    echo "Invalid number"
+    ;;
+esac
+```
