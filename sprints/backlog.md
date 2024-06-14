@@ -1,30 +1,29 @@
 # Backlog
 
-## Scrum Documentation Updates
+## Définir les objectifs et les exigences du projet
 
-1. Update the Scrum documentation with more schemas and detailed descriptions.
+- Identifier les besoins en sécurité
+- Documentation sur devops, devSecOps, les outils devops, scrum
+
+## Scrum
+
+1. make the Scrum documentation with more schemas and detailed descriptions.
+
    - Story Points: 3
    - Est. 2 days
-
-## Scrum Team Velocity
 
 2. Understand and measure the velocity of the Scrum team by tracking completed story points over sprints.
    - Story Points: 5
    - Est. 3 days
 
-## Getting Started with Jira
+## Jira
 
-3. Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
+1. Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
 
    - Story Points: 2
    - Est. 1 day
 
-4. Explore advanced Jira features such as custom workflows and agile boards setup.
-
-   - Story Points: 3
-   - Est. 2 days
-
-5. Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
+2. Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
    - Story Points: 1
    - Est. 1 day
 
@@ -52,7 +51,7 @@
    - Story Points: 1
    - Est. 1 day
 
-5. Update the roadmap with a timeline for completing each task.
+5. Make a roadmap with a timeline for completing each task.
    - Story Points: 1
    - Est. 1 day
 
@@ -75,37 +74,17 @@
    - Story Points: 3
    - Est. 2 days
 
-4. Explore Azure Functions for serverless computing and automation.
+4. Explore Azure .
    - Story Points: 3
    - Est. 2 days
 
 ---
 
-## Jenkins and CI/CD
+## Jenkins
 
-1. Learn Jenkins fundamentals, including installation, configuration, and usage in DevOps processes.
-
-   - Story Points: 5
-   - Est. 3 days
-
-2. Install Jenkins on your development machine.
-
-   - Story Points: 2
-   - Est. 1 day
-
-3. Configure Jenkins by writing Groovy scripts to automate builds.
-
-   - Story Points: 4
-   - Est. 2 days
-
-4. Set up Jenkins pipelines for continuous integration and delivery (CI/CD).
-
-   - Story Points: 4
-   - Est. 2 days
-
-5. Integrate Jenkins with your version control system (e.g., GitHub, GitLab).
-   - Story Points: 2
-   - Est. 1 day
+- Formation Jenkins (ça doit englober, comment installer, comment configurer, comment écrire des script (python, bash) sur Jenkins, voir des exemples de l'utilisation de Jenkins dans des process DevOps ou DevSecOps...)
+- Installer Jenkins j'estime ça à 0.5J, max 1J
+- Configurer Jenkins: écrire des script pour lancer des builds Jenkins: j'estime ça minimum 2J (et cette tache va revenir dans les prochaines Sprint comme Optimisation&Amélioration de la configuration Jenkins)
 
 ---
 
@@ -147,9 +126,9 @@
 
 ---
 
-## Kubernetes Mastery
+## Kubernetes
 
-1. Complete the "Kubernetes for Developers" course on Udemy.
+1. Complete the "Kubernetes for Developers" course on Udemy .
 
    - Story Points: 8
    - Est. 5 days
