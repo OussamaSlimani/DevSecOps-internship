@@ -59,22 +59,13 @@
 
 ## Azure Cloud Learning Path
 
-1. Complete the "Getting Started with Azure Cloud" course on Udemy.
-
-   - Story Points: 8
-   - Est. 5 days
-
-2. Complete the "Azure Networking Services for Beginners" course on Udemy.
-
-   - Story Points: 5
-   - Est. 3 days
-
-3. Practice deploying virtual machines (VMs) in Azure and networking them.
+1. Explore Azure.
 
    - Story Points: 3
    - Est. 2 days
 
-4. Explore Azure .
+3. Practice deploying virtual machines (VMs) in Azure and networking them.
+
    - Story Points: 3
    - Est. 2 days
 
@@ -89,68 +80,23 @@
 ---
 
 ## Docker Containerization
-
-1. Learn the basics of Docker.
-
-   - Story Points: 3
-   - Est. 3 days
-
-2. Complete the "Docker Training Course for the Absolute Beginner" on KodeKloud.
-
-   - Story Points: 8
-   - Est. 5 days
-
-3. Create a Dockerfile for a sample application.
-
-   - Story Points: 2
-   - Est. 1 day
-
-4. Deploy the Docker container locally to test the setup.
-
-   - Story Points: 2
-   - Est. 1 day
-
-5. Explore Docker Compose to manage multi-container applications.
-
-   - Story Points: 3
-   - Est. 2 days
-
-6. Document the containerization process and best practices.
-
-   - Story Points: 1
-   - Est. 1 day
-
-7. Explore Docker Swarm for orchestration and scaling containers.
-   - Story Points: 3
-   - Est. 2 days
+- Maîtriser les concepts de base
+- installation et configurer,
+- apprendre comment écrire des Dockerfile,
+- Déployer le conteneur Docker localement pour tester la configuration
+- Explorer Docker Compose pour gérer des applications multi-conteneurs
+- voir des exemples de l'utilisation de Docker dans des process DevOps ou DevSecOps
+- Documenter
 
 ---
 
 ## Kubernetes
-
-1. Complete the "Kubernetes for Developers" course on Udemy .
-
-   - Story Points: 8
-   - Est. 5 days
-
-2. Complete the "Practical Kubernetes Guide" course on Udemy.
-
-   - Story Points: 5
-   - Est. 3 days
-
-3. Set up a Kubernetes cluster locally using Minikube or Kind.
-
-   - Story Points: 3
-   - Est. 2 days
-
-4. Deploy a sample application on your local Kubernetes cluster.
-
-   - Story Points: 2
-   - Est. 1 day
-
-5. Explore Kubernetes Helm for package management and templating.
-   - Story Points: 3
-   - Est. 2 days
+- Maîtriser les concepts de base
+- Installer Kubernetes sur un cluster de machines (physiques, virtuelles ou cloud). et Configurer les nœuds du cluster Kubernetes pour qu'ils communiquent entre eux.
+- Apprendre à écrire des fichiers de configuration Kubernetes (manifestes) en utilisant YAML.
+- Déploiement d'Applications
+- Gestion des Ressources
+- Documenter tous les aspects du déploiement Kubernetes, y compris l'architecture, les configurations et les procédures d'exploitation.
 
 ---
 
