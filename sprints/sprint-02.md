@@ -31,6 +31,8 @@
   - Estimation: 2 days
 - Documentation
   `(oussama)`
+   - Story Points: 1
+  - Estimation: 0.5 days
 
 ## 3. Docker Containerization
 
