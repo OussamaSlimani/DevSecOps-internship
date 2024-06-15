@@ -24,3 +24,5 @@
 ## 3. Jira
 
 - Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
+  - Story Points: 2
+  - Estimation: 1 day
