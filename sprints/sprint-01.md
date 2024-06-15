@@ -1,6 +1,6 @@
 # Sprint 1
 
-10 Juan - 15 Juan
+10 June - 15 June
 
 ---
 
