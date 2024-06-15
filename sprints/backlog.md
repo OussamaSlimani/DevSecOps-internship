@@ -4,31 +4,23 @@
 
 - [x] Identify Project Goals and Requirements
 
-  - Story Points: 2
-  - Estimation: 1 days
+ 
 
 - [x] Documentation on DevOps, DevSecOps, DevOps tools, and Scrum.
-  - Story Points: 5
-  - Estimation: 2 days
+  
 
 ## Scrum
 
 - [x] Make the Scrum documentation with more schemas and detailed descriptions.
 
-  - Story Points: 3
-  - Estimation: 2 days
-
+  
 - [x] Understand and measure the velocity of the Scrum team by tracking completed story points over sprints.
-  - Story Points: 5
-  - Estimation: 3 days
-
+  
 ## Jira
 
 - [x] Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
 
-  - Story Points: 2
-  - Estimation: 1 day
-
+  
 - [ ] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
   - Story Points: 1
   - Estimation: 1 day
