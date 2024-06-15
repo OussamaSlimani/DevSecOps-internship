@@ -7,7 +7,11 @@
 ## 1. Define Project Goals and Requirements
 
 - Identify Project Goals and Requirements
+    - Story Points: 2
+    - Estimation: 1 days
 - Documentation on DevOps, DevSecOps, DevOps tools, and Scrum.
+   - Story Points: 5
+   - Estimation: 2 days
 
 ## 2. Scrum
 
