@@ -4,31 +4,23 @@
 
 - [x] Identify Project Goals and Requirements
 
-  - Story Points: 2
-  - Estimation: 1 days
+ 
 
 - [x] Documentation on DevOps, DevSecOps, DevOps tools, and Scrum.
-  - Story Points: 5
-  - Estimation: 2 days
+  
 
 ## Scrum
 
 - [x] Make the Scrum documentation with more schemas and detailed descriptions.
 
-  - Story Points: 3
-  - Estimation: 2 days
-
+  
 - [x] Understand and measure the velocity of the Scrum team by tracking completed story points over sprints.
-  - Story Points: 5
-  - Estimation: 3 days
-
+  
 ## Jira
 
 - [x] Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
 
-  - Story Points: 2
-  - Estimation: 1 day
-
+  
 - [ ] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
   - Story Points: 1
   - Estimation: 1 day
@@ -37,18 +29,13 @@
 
 - [x] Install Ubuntu on your development machine.
 
-  - Story Points: 2
-  - Estimation: 1 day
+ 
 
 - [x] Learn basic bash scripting to automate tasks in the terminal.
 
-  - Story Points: 5
-  - Estimation: 3 days
+ 
 
 - [x] Search for a web starter project on GitHub to practice DevOps principles.
-
-  - Story Points: 2
-  - Estimation: 1 day
 
 - [ ] Get an Azure for Students account to access cloud resources for free.
 
@@ -56,36 +43,24 @@
   - Estimation: 1 day
 
 - [x] Make a roadmap with a timeline for completing each task.
-  - Story Points: 1
-  - Estimation: 1 day
+  
 
 ## Azure Cloud Learning Path
 
 - [ ] Explore Azure.
 
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Practice deploying virtual machines (VMs) in Azure and networking them.
-  - Story Points: 3
-  - Estimation: 2 days
+  
 
 ## Jenkins
 
 - [ ] Learn Jenkins (how to write scripts (Python, bash) on Jenkins, examples of using Jenkins in DevOps or DevSecOps processes).
 
-  - Story Points: 4
-  - Estimation: 2 days
-
 - [ ] Install Jenkins.
 
-  - Story Points: 1
-  - Estimation: 0.5 days
-
 - [ ] Configure Jenkins: Write scripts to launch Jenkins builds.
-  - Story Points: 3
-  - Estimation: 2 days
-  - _This task will return in future sprints as optimization and improvement of Jenkins configuration._
+ 
+- [ ] Documentation
 
 ## Docker Containerization
 
@@ -96,9 +71,7 @@
 - [ ] Explore Docker Compose for managing multi-container applications.
 - [ ] Examples of using Docker in DevOps or DevSecOps processes.
 - [ ] Documentation.
-  - Story Points: 5
-  - Estimation: 3 days
-
+  
 ## Kubernetes
 
 - [ ] Learn the basic concepts.
