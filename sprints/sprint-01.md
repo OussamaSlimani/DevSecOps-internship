@@ -7,8 +7,8 @@
 ## 1. Development Environment Setup
 
 - Install Ubuntu on your development machine
-   - Story Points: 2
-   - Estimation: 1 day
+  - Story Points: 2
+  - Estimation: 1 day
 - Learn basic bash scripting to automate tasks in the terminal
   - Story Points: 5
   - Estimation: 3 days

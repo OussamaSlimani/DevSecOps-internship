@@ -12,8 +12,8 @@
   - Estimation: 1 day
 - Practice deploying virtual machines (VMs) in Azure and networking them
   `(oussama / mariem)`
-   - Story Points: 3
-   - Estimation: 2 days
+  - Story Points: 3
+  - Estimation: 2 days
 
 ## 2. Jenkins
 
@@ -23,7 +23,7 @@
   - Estimation: 2 days
 - Install Jenkins.
   `(oussama / mariem)`
-   - Story Points: 1
+  - Story Points: 1
   - Estimation: 0.5 day
 - Configure Jenkins: Write scripts to launch Jenkins builds
   `(oussama / mariem)`
@@ -31,7 +31,7 @@
   - Estimation: 2 days
 - Documentation
   `(oussama)`
-   - Story Points: 1
+  - Story Points: 1
   - Estimation: 0.5 day
 
 ## 3. Docker Containerization

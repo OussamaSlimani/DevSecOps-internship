@@ -4,23 +4,16 @@
 
 - [x] Identify Project Goals and Requirements
 
- 
-
 - [x] Documentation on DevOps, DevSecOps, DevOps tools, and Scrum.
-  
 
 ## Scrum
 
 - [x] Make the Scrum documentation with more schemas and detailed descriptions.
-
-  
 - [x] Understand and measure the velocity of the Scrum team by tracking completed story points over sprints.
-  
+
 ## Jira
 
 - [x] Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
-
-  
 - [ ] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
   - Story Points: 1
   - Estimation: 1 day
@@ -29,11 +22,7 @@
 
 - [x] Install Ubuntu on your development machine.
 
- 
-
 - [x] Learn basic bash scripting to automate tasks in the terminal.
-
- 
 
 - [x] Search for a web starter project on GitHub to practice DevOps principles.
 
@@ -43,14 +32,12 @@
   - Estimation: 1 day
 
 - [x] Make a roadmap with a timeline for completing each task.
-  
 
 ## Azure Cloud Learning Path
 
 - [ ] Explore Azure.
 
 - [ ] Practice deploying virtual machines (VMs) in Azure and networking them.
-  
 
 ## Jenkins
 
@@ -59,7 +46,7 @@
 - [ ] Install Jenkins.
 
 - [ ] Configure Jenkins: Write scripts to launch Jenkins builds.
- 
+
 - [ ] Documentation
 
 ## Docker Containerization
@@ -71,7 +58,7 @@
 - [ ] Explore Docker Compose for managing multi-container applications.
 - [ ] Examples of using Docker in DevOps or DevSecOps processes.
 - [ ] Documentation.
-  
+
 ## Kubernetes
 
 - [ ] Learn the basic concepts.
