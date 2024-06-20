@@ -31,11 +31,19 @@
 ---
 
 ## Mariem
+**Total Focus Duration:**
+- 7h 50min (18 pomodoros)
 
-**Yesterday:**
+**Today:**
+- Completed some of the Azure Udemy courses (50%)
+- Completed The installation of Tomcat on Ubuntu
+- Start learning Docker
+-  Document Docker.
 
-- **Today:**
-
-- **Challenges:**
-
--
+ **Challenges:**
+- I encountered an unexpected configuration problem on my virtual machine that took some time to fix.
+  
+**Tomorrow:**
+- Complete some of the Azure Udemy courses
+- learn more for jenkins with other projects
+- learn more for Docker 
