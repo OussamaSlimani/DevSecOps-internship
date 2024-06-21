@@ -32,10 +32,21 @@
 
 ## Mariem
 
-**Yesterday:**
+ **Total Focus Duration:**
+
+- 6h 40min (16 pomodoros)
+  
 
 - **Today:**
+- Write scripts to automate Jenkins builds for PHP codes.
+- Practice more Docker examples.
+- Start working on a certification
+- Practice more examples for Jenkins using Blue Ocean.
 
 - **Challenges:**
+- No difficulties faced.
 
--
+**Tomorrow:**
+- Add the Dockerization step to the Jenkins pipeline.
+- Dockerize the PHP code.
+- Finish Azure course
