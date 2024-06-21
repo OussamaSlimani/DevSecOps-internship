@@ -38,7 +38,7 @@
   
 
  **Today:**
-- Write scripts to automate Jenkins builds for PHP codes.
+- Implement PHPUnit and PHPStan tests for the php codes.
 - Practice more Docker examples.
 - Start working on a certification
 - Practice more examples for Jenkins using Blue Ocean.
