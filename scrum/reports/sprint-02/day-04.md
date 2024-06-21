@@ -12,21 +12,21 @@
 
 **Today:**
 
-- Write scripts to automate Jenkins builds for PHP codes.
-- Implement PHPUnit and PHPStan tests for the php codes.
-- Install and configure Docker.
-- Start learning Docker basics with the KodeKloud course.
+ - Write scripts to automate Jenkins builds for PHP codes.
+ - Implement PHPUnit and PHPStan tests for the php codes.
+ - Install and configure Docker.
+ - Start learning Docker basics with the KodeKloud course.
 
 **Challenges:**
 
-- No difficulties faced.
+ - No difficulties faced.
 
 **Tomorrow:**
 
-- Finish Docker basics with the KodeKloud course.
-- Document the Docker setup.
-- Dockerize the PHP code.
-- Add the Dockerization step to the Jenkins pipeline.
+  - Finish Docker basics with the KodeKloud course.
+  - Document the Docker setup.
+  - Dockerize the PHP code.
+  - Add the Dockerization step to the Jenkins pipeline.
 
 ---
 
@@ -37,13 +37,13 @@
 - 6h 40min (16 pomodoros)
   
 
-- **Today:**
+ **Today:**
 - Write scripts to automate Jenkins builds for PHP codes.
 - Practice more Docker examples.
 - Start working on a certification
 - Practice more examples for Jenkins using Blue Ocean.
 
-- **Challenges:**
+ **Challenges:**
 - No difficulties faced.
 
 **Tomorrow:**
