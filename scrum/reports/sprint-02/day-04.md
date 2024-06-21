@@ -47,6 +47,7 @@
 - No difficulties faced.
 
 **Tomorrow:**
-- Add the Dockerization step to the Jenkins pipeline.
-- Dockerize the PHP code.
+
+- Write scripts to automate Jenkins builds for PHP codes.
+ - Add the Dockerization step to the Jenkins pipeline.
 - Finish Azure course
