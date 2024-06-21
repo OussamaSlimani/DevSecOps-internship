@@ -1,6 +1,8 @@
-Here's the corrected markdown format with proper structure, and the URLs converted to clickable links:
+# Pipeline Setup for PHP Projects with Jenkins and Docker
 
-# Installation Steps
+![Alt text](media/pipeline.png)
+
+--- 
 
 ## 1. Install PHP
 
@@ -77,3 +79,6 @@ Create a Multibranch Pipeline job.
 ## 9. GitHub Repository
 
 This repository contains the Dockerfile, the Jenkinsfile script, and a simple PHP code just for the lab.
+
+- [jenkins-example-php](https://github.com/OussamaSlimani/jenkins-example-php)
+
