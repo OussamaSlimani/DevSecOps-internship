@@ -35,4 +35,11 @@
 
 - 6h 40min (16 pomodoros)
   
+**Today:**
+
+- Finish Docker basics with the KodeKloud course.
+- Document the Docker setup.
+- Dockerize the PHP code.
+- Add the Dockerization step to the Jenkins pipeline.
+
 
