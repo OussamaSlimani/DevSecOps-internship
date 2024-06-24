@@ -32,12 +32,12 @@
 
 - 6h 40min (16 pomodoros)
 
-  **Today:**
+**Today:**
 - Search about tools SonarQube, Hadolint, Dockle, Trivy, OWASP ZAP, Prometheus et Grafana.
 - start leaning about kubernetes.
 - install kubectl and Minikube.
 
-  **Challenges:**
+ **Challenges:**
 
 - No difficulties faced.
 
