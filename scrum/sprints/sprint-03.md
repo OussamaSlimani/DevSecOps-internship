@@ -40,7 +40,7 @@
 ## 3. Started Project
 
 - update the started project
-  `(oussama / mariem)`
+  `(oussama)`
   - Story Points: 2
   - Estimation: 1 day
 
