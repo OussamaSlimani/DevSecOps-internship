@@ -35,29 +35,29 @@
 
 ## Azure Cloud Learning Path
 
-- [ ] Explore Azure.
+- [x] Explore Azure.
 
 - [ ] Practice deploying virtual machines (VMs) in Azure and networking them.
 
 ## Jenkins
 
-- [ ] Learn Jenkins (how to write scripts (Python, bash) on Jenkins, examples of using Jenkins in DevOps or DevSecOps processes).
+- [x] Learn Jenkins (how to write scripts (Python, bash) on Jenkins, examples of using Jenkins in DevOps or DevSecOps processes).
 
-- [ ] Install Jenkins.
+- [x] Install Jenkins.
 
-- [ ] Configure Jenkins: Write scripts to launch Jenkins builds.
+- [x] Configure Jenkins: Write scripts to launch Jenkins builds.
 
-- [ ] Documentation
+- [x] Documentation
 
 ## Docker Containerization
 
-- [ ] Learn the basic concepts.
-- [ ] Install and configure Docker.
+- [x] Learn the basic concepts.
+- [x] Install and configure Docker.
 - [ ] Learn how to write Dockerfiles.
 - [ ] Deploy Docker containers locally to test the configuration.
 - [ ] Explore Docker Compose for managing multi-container applications.
 - [ ] Examples of using Docker in DevOps or DevSecOps processes.
-- [ ] Documentation.
+- [x] Documentation.
 
 ## Kubernetes
 
