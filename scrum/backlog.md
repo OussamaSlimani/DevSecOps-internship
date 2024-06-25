@@ -47,7 +47,7 @@
 
 - [x] Configure Jenkins: Write scripts to launch Jenkins builds.
 
-- [x] Documentation
+- [x] Documentation for jenkins
 
 ## Docker Containerization
 
@@ -70,33 +70,6 @@
   - Story Points: 8
   - Estimation: 5 days
 
-## Monitoring and Logging
-
-- [ ] Learn the basic concepts.
-- [ ] Understand monitoring tools (Prometheus and Grafana).
-
-  - Story Points: 4
-  - Estimation: 3 days
-
-- [ ] Configure Grafana in your development environment.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Configure the ELK stack in your development environment.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Create custom dashboards in Grafana to visualize Prometheus metrics.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Configure alerts in Grafana based on Prometheus metrics.
-  - Story Points: 2
-  - Estimation: 1 day
-
 ## Infrastructure as Code (IaC)
 
 - [ ] Learn the basic concepts.
@@ -118,3 +91,197 @@
 - [ ] Integrate Terraform with your CI/CD pipeline for automated deployments.
   - Story Points: 3
   - Estimation: 2 days
+
+## ============================================================
+
+## =============================================================
+
+## ==============================================================
+
+## Cloud deployment
+
+- [ ] Search for Cloud solution to practice real deployment for the app.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Configure CI/CD pipeline for automated deployments.
+
+  - Story Points: 3
+  - Estimation: 5 days
+
+- [ ] Deploy the application to a production environment.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Create documentation for the cloud deployment process.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+## SonarQube
+
+- [ ] Explore SonarQube: Learn about its features and how it works.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Install SonarQube.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Configure SonarQube.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
+
+  - Story Points: 4
+  - Estimation: 2 days
+
+- [ ] Documentation for SonarQube.
+  - Story Points: 2
+  - Estimation: 1 day
+
+## Hadolint
+
+- [ ] Explore Hadolint: Learn about its features and how it works.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Install Hadolint.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Configure Hadolint.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Add Hadolint to the Docker project pipeline: Integrate it into your existing pipeline.
+
+  - Story Points: 4
+  - Estimation: 2 days
+
+- [ ] Documentation for Hadolint.
+  - Story Points: 2
+  - Estimation: 1 day
+
+## Dockle
+
+- [ ] Explore Dockle: Learn about its features and how it works.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Install Dockle.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Configure Dockle.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
+
+  - Story Points: 4
+  - Estimation: 2 days
+
+- [ ] Documentation for Dockle.
+  - Story Points: 2
+  - Estimation: 1 day
+
+## Trivy
+
+- [ ] Explore Trivy: Learn about its features and how it works.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Install Trivy.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Configure Trivy.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
+
+  - Story Points: 4
+  - Estimation: 2 days
+
+- [ ] Documentation for Trivy.
+  - Story Points: 2
+  - Estimation: 1 day
+
+## OWASP ZAP
+
+- [ ] Explore OWASP ZAP: Learn about its features and how it works.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Install OWASP ZAP.
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Configure OWASP ZAP.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
+
+  - Story Points: 4
+  - Estimation: 2 days
+
+- [ ] Documentation for OWASP ZAP.
+  - Story Points: 2
+  - Estimation: 1 day
+
+## Monitoring and Logging
+
+- [ ] Learn the basic concepts of Monitoring and Logging.
+
+  - Story Points: 4
+  - Estimation: 3 days
+
+- [ ] Search monitoring tools (Prometheus and Grafana).
+
+  - Story Points: 4
+  - Estimation: 3 days
+
+- [ ] Install and configure Prometheus in your development environment.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Retrieve metrics from Prometheus.
+
+  - Story Points: 3
+  - Estimation: 1 day
+
+- [ ] Install and Configure Grafana in your development environment.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Create custom dashboards in Grafana to visualize Prometheus metrics.
+
+  - Story Points: 3
+  - Estimation: 2 days
+
+- [ ] Configure alerts in Grafana based on Prometheus metrics.
+  - Story Points: 2
+  - Estimation: 1 day
