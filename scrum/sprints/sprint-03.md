@@ -35,8 +35,15 @@
 - Get an Azure for Students account to access cloud resources for free
   `(oussama / mariem)`
   - Story Points: 1
-  - Estimation: 1/2 days
+  - Estimation: 1/2 day
 
+## 3. Kubernetes
+
+- Learn the basic concepts of Kubernetes
+
+    - Story Points: 2
+    - Estimation: 1 day
+      
 ## 3. SonarQube 
 
 
