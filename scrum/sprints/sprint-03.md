@@ -37,20 +37,25 @@
   - Story Points: 1
   - Estimation: 1/2 days
 
-## 3. Started Project
+## 3. SonarQube 
 
-- update the started project
-  `(oussama)`
-  - Story Points: 2
-  - Estimation: 1 day
 
-## 4. Kubernetes
+- Explore SonarQube:Learn about its features and how it works `(oussama/mariem)`
+  
+       - Story Points: 3
+       - Estimation: 1 day
 
-- Learn the basic concepts.
-  `(oussama / mariem)`
-  - Story Points: 3
-  - Estimation: 1 day
-- Install Kubernetes on a cluster of machines (physical, virtual, or cloud) and configure the cluster nodes to communicate with each other.
-  `(oussama / mariem)`
-  - Story Points: 1
-  - Estimation: 1 day
+- Install and configure SonarQube `(oussama/mariem)`
+  
+        - Story Points: 5
+       - Estimation: 1 day
+
+- Add SonarQube to the PHP project pipeline: integrate it into your existing pipeline `(oussama/mariem)`
+  
+           - Story Points: 4
+            - Estimation: 1 day
+  
+- Documentation for SonarQube `(oussama/mariem)`
+  
+           - Story Points: 2
+            - Estimation: 1 day
