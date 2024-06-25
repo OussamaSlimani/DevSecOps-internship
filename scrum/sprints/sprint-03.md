@@ -9,8 +9,8 @@
 - Learn how to write Dockerfiles.
   `(oussama / mariem)`
 
-  - Story Points: 1
-  - Estimation: 1/2 day
+   - Story Points: 1
+   - Estimation: 1/2 day
 
 - Deploy Docker containers locally to test the configuration.
   `(oussama / mariem)`
