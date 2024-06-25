@@ -42,20 +42,20 @@
 
 - Explore SonarQube:Learn about its features and how it works `(oussama/mariem)`
   
-       - Story Points: 3
-       - Estimation: 1 day
+ - Story Points: 3
+- Estimation: 1 day
 
 - Install and configure SonarQube `(oussama/mariem)`
   
-        - Story Points: 5
-       - Estimation: 1 day
+   - Story Points: 5
+   - Estimation: 1 day
 
 - Add SonarQube to the PHP project pipeline: integrate it into your existing pipeline `(oussama/mariem)`
   
-           - Story Points: 4
-            - Estimation: 1 day
+    - Story Points: 4
+   - Estimation: 1 day
   
 - Documentation for SonarQube `(oussama/mariem)`
   
-           - Story Points: 2
-            - Estimation: 1 day
+   - Story Points: 2
+   - Estimation: 1 day
