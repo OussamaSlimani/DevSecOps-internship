@@ -42,8 +42,8 @@
 
 - Explore SonarQube:Learn about its features and how it works `(oussama/mariem)`
   
- - Story Points: 3
-- Estimation: 1 day
+     - Story Points: 3
+     - Estimation: 1 day
 
 - Install and configure SonarQube `(oussama/mariem)`
   
