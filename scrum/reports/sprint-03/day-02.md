@@ -25,7 +25,6 @@
 
 - Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
 - start the documentation.
-- Forward Webhooks to Jenkins Behind a Firewall using ngrok
 
 ---
 
