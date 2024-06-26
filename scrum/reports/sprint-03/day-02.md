@@ -36,9 +36,9 @@
 
 **Today:**
 
-- Search about tools SonarQube, Hadolint, Dockle, Trivy, OWASP ZAP, Prometheus et Grafana.
-- start leaning about kubernetes.
-- install kubectl and Minikube.
+- Complete with Kubernetes.
+- start learning SonarQube.
+- start documentation.
 
   **Challenges:**
 
@@ -46,5 +46,6 @@
 
 **Tomorrow:**
 
-- update the sprint 3.
-- complete with kubernetes.
+- complete with SonarQube .
+- install and configure SonarQube.
+-  test the SonarQube with our php project (locally).
