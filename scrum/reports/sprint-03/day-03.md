@@ -36,7 +36,7 @@
 - start learning SonarQube.
 - install SonarQube.
 
-  **Challenges:**
+ **Challenges:**
 
 - The installation of SonarQube is complicated, It takes me so much time .
 - other problems with my XAMPP
