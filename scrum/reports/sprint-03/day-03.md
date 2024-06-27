@@ -8,21 +8,22 @@
 
 **Total Focus Duration:**
 
-- 6h 15min (15 pomodoros)
+- 6h 40min (16 pomodoros)
 
 **Today:**
 
-
+- Make the starter project smaller and easier to test.
+- Test the project with Sonar and PHPStan.
 
 **Challenges:**
 
-
+- Many errors and build failures when I tried to run Sonar with the project on Jenkins.
 
 **Tomorrow:**
 
+- Add the project to the pipeline with Sonar and PHPStan.
+- Work on documentation.
 
-
----
 
 ## Mariem
 
