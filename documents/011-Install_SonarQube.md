@@ -2,7 +2,7 @@
 
 ---
 
-## Install PostgreSQL 15
+## Install PostgreSQL 
 
 1. Update and upgrade your system:
     ```bash
