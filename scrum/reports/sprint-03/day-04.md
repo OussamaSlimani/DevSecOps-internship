@@ -1,4 +1,4 @@
-# Daily Standup Meeting Report for Sprint 3, Day 34
+# Daily Standup Meeting Report for Sprint 3, Day 4
 
 ## Meeting: 27-06-2024 / 22:30 / 10min
 
