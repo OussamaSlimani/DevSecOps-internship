@@ -1,3 +1,9 @@
+# Sprint 4
+
+1 Jul - 5 Jul
+
+---
+
 ## Hadolint
 
 - [ ] Explore Hadolint: Learn about its features and how it works.
@@ -19,7 +25,7 @@
   - Story Points: 2
   - Estimation: 0.5 day
 
-## Docker
+## Dockerfile
 
 - [ ] create the dockerfile to build the image
   - Story Points: 1
@@ -29,7 +35,7 @@
 
 - [ ] Explore Dockle: Learn about its features and how it works.
 
-  - Story Points: 3
+  - Story Points: 1
   - Estimation: 0.5 days
 
 - [ ] Install and Configure Dockle.
@@ -39,7 +45,7 @@
 
 - [ ] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
 
-  - Story Points: 4
+  - Story Points: 3
   - Estimation: 1 days
 
 - [ ] Documentation for Dockle.
