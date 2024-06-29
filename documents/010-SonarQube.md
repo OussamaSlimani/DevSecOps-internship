@@ -99,6 +99,7 @@ ngrok config add-authtoken 2iPDHJitAGokTrRwSmFnfKSxKIQ_28F6nhX21EUq1Pj4HVpzK
 ```bash
 ngrok http http://localhost:8080
 ```
+
 - This command will provide you with a link to access Jenkins.
 
 - Video Tutorial: [How to Forward Webhooks to Jenkins Behind a Firewall using Ngrok](https://www.youtube.com/watch?v=yMNJeWeE0qI&t=466s)
@@ -124,4 +125,3 @@ stage("Quality Gate") {
 ```
 
 - Video Tutorial: [How to Integrate SonarQube With Jenkins](https://www.youtube.com/watch?v=KsTMy0920go&t=257s)
-

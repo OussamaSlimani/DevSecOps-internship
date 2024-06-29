@@ -151,17 +151,12 @@
 - [ ] Explore Hadolint: Learn about its features and how it works.
 
   - Story Points: 3
-  - Estimation: 2 days
+  - Estimation: 1 days
 
-- [ ] Install Hadolint.
+- [ ] Install and Configure Hadolint.
 
   - Story Points: 2
-  - Estimation: 1 day
-
-- [ ] Configure Hadolint.
-
-  - Story Points: 3
-  - Estimation: 2 days
+  - Estimation: 0.5 day
 
 - [ ] Add Hadolint to the Docker project pipeline: Integrate it into your existing pipeline.
 
@@ -177,26 +172,21 @@
 - [ ] Explore Dockle: Learn about its features and how it works.
 
   - Story Points: 3
-  - Estimation: 2 days
+  - Estimation: 0.5 days
 
-- [ ] Install Dockle.
+- [ ] Install and Configure Dockle.
 
   - Story Points: 2
-  - Estimation: 1 day
-
-- [ ] Configure Dockle.
-
-  - Story Points: 3
-  - Estimation: 2 days
+  - Estimation: 0.5 day
 
 - [ ] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
-  - Estimation: 2 days
+  - Estimation: 1 days
 
 - [ ] Documentation for Dockle.
   - Story Points: 2
-  - Estimation: 1 day
+  - Estimation: 0.5 day
 
 ## Trivy
 
