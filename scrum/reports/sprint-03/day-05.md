@@ -24,8 +24,16 @@
 
 **Total Focus Duration:**
 
-- 7h (16 pomodoros)
+- 9h 50 min (23 pomodoros)
 
 **Today:**
-
+- Reinstall Ubuntu as a partition; I faced many problems using it as a VM.
+- Reinstall all the software from previous sprints.
+- Test SonarQube with our PHP project locally.
+- Install ngrok and configure the webhook to get the quality gate from SonarQube.
+- Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
+- Complete the documentation of SonarQube.
+- Sprint 4.
+- 
 **Challenges:**
+ - no difficulty faced
