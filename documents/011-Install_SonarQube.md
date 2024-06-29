@@ -117,6 +117,7 @@
    ```
 
 7. Exit the root shell:
+
    ```bash
    exit
    ```
@@ -131,7 +132,7 @@
 
 2. Add the following lines at the end of the file:
 
-   ```
+   ```bash
    sonarqube   -   nofile   65536
    sonarqube   -   nproc    4096
    ```
@@ -149,6 +150,7 @@
    ```
 
 5. Reboot the system to apply the changes:
+
    ```bash
    sudo reboot
    ```
@@ -186,6 +188,7 @@
 5. Find and update the following values:
 
    ```
+
    sonar.jdbc.username=sonar
    sonar.jdbc.password=sonar
    sonar.jdbc.url=jdbc:postgresql://localhost:5432/sonarqube

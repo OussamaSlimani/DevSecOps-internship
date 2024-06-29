@@ -48,4 +48,4 @@
 
 - complete with SonarQube .
 - install and configure SonarQube.
--  test the SonarQube with our php project (locally).
+- test the SonarQube with our php project (locally).

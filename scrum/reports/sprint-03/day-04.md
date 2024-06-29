@@ -22,16 +22,16 @@
 - no difficulty faced
 
 **Tomorrow:**
+
 - Install the sonar in local not using it as docker container
 - search for the next tools hadolint.
 - sprint 4.
-
 
 ## Mariem
 
 **Total Focus Duration:**
 
-- 7h  (16 pomodoros)
+- 7h (16 pomodoros)
 
 **Today:**
 
@@ -39,11 +39,11 @@
 - start learning SonarQube.
 - install SonarQube.
 
- **Challenges:**
+  **Challenges:**
 
 - The installation of SonarQube is complicated, It takes me so much time .
 - other problems with my XAMPP
-  
+
 **Tomorrow:**
 
 - complete with SonarQube .
