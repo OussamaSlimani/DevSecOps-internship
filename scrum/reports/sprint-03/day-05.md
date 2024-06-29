@@ -34,6 +34,6 @@
 - Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
 - Complete the documentation of SonarQube.
 - Sprint 4.
-- 
+
 **Challenges:**
  - no difficulty faced
