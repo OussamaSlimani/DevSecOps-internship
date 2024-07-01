@@ -40,9 +40,12 @@
 
 **Today:**
 
-- Search about tools SonarQube, Hadolint, Dockle, Trivy, OWASP ZAP, Prometheus et Grafana.
-- start leaning about kubernetes.
-- install kubectl and Minikube.
+- Obtain the Azure student account.
+- Add environment variables in the application.
+- Create a Dockerfile to build the image.
+- Explore Hadolint: Learn about its features and how it works.
+- Install and configure Hadolint.
+- Document Hadolint.
 
   **Challenges:**
 
@@ -50,5 +53,6 @@
 
 **Tomorrow:**
 
-- update the sprint 3.
-- complete with kubernetes.
+- Integrate Hadolint into the Docker project pipeline.
+- Explore Dockle: Learn about its features and how it works.
+- Install and Configure Dockle.
