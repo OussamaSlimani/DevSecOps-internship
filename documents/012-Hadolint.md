@@ -38,3 +38,29 @@ FROM ubuntu:latest
 ```
 
 - Here, DL3000 is an example of a rule ID that you want Hadolint to ignore for this specific line.
+
+## 6. Jenkinsfile
+
+```Groovy
+pipeline {
+    agent any
+
+    stages {
+        stage('Lint Dockerfile') {
+            steps {
+                script {
+                    // Run hadolint and capture the output
+                    def hadolintOutput = sh(returnStdout: true, script: 'docker run --rm -i hadolint/hadolint < Dockerfile || true')
+
+                    // Check if there's any output (indicating an error)
+                    if (hadolintOutput.trim().isEmpty()) {
+                        echo 'All Dockerfiles are OK'
+                    } else {
+                        error "Error: Dockerfile linting failed:\n${hadolintOutput}"
+                    }
+                }
+            }
+        }
+    }
+}
+```
