@@ -1,6 +1,6 @@
 # Daily Standup Meeting Report for Sprint 4, Day 1
 
-## Meeting: 25-06-2024 / 07:30 / 30min
+## Meeting: 01-07-2024 / 23:40 / 10min
 
 ---
 

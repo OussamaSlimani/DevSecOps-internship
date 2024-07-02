@@ -126,3 +126,5 @@ export DOCKLE_AUTH_URL=https://registry.hub.docker.com
 export DOCKLE_USERNAME={DOCKERHUB_USERNAME}
 export DOCKLE_PASSWORD={DOCKERHUB_PASSWORD}
 ```
+
+- Video Tutorial: [Corporate DevOps Security Tools | Dockle](https://www.youtube.com/watch?v=y3kXifurtFg&t=10s)
