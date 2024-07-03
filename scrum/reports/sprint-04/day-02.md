@@ -40,6 +40,7 @@
 - Explore Dockle: Learn about its features and functionality.
 - Install and Configure Dockle.
 - Try Dockle locally.
+- 
   **Challenges:**
 
 - No difficulties faced.
