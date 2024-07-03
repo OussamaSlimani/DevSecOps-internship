@@ -41,7 +41,7 @@
 - Install and Configure Dockle.
 - Try Dockle locally.
 - 
-  **Challenges:**
+**Challenges:**
 
 - No difficulties faced.
 
