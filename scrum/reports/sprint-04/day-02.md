@@ -36,19 +36,16 @@
 
 **Today:**
 
-- Obtain the Azure student account.
-- Add environment variables in the application.
-- Create a Dockerfile to build the image.
-- Explore Hadolint: Learn about its features and how it works.
-- Install and configure Hadolint.
-- Document Hadolint.
-
+- Integrate Hadolint into the Docker project pipeline.
+- Explore Dockle: Learn about its features and functionality.
+- Install and Configure Dockle.
+- Try Dockle locally.
   **Challenges:**
 
 - No difficulties faced.
 
 **Tomorrow:**
 
-- Integrate Hadolint into the Docker project pipeline.
-- Explore Dockle: Learn about its features and how it works.
-- Install and Configure Dockle.
+- Document Dockle.
+- Add Dockle to the Docker project pipeline: Integrate it into the existing pipeline.
+- Enhance our PHP project.
