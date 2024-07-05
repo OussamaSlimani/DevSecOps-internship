@@ -8,7 +8,7 @@
 
 - Explore Trivy: Learn about its features and how it works.
 
-  - Story Points: 3
+  - Story Points: 1
   - Estimation: 0.5 days
 
 - Install and Configure Trivy.
@@ -29,7 +29,7 @@
 
 - Explore OWASP ZAP: Learn about its features and how it works.
 
-  - Story Points: 3
+  - Story Points: 1
   - Estimation: 0.5 day
 
 - Install and Configure OWASP ZAP.
@@ -54,16 +54,16 @@
   - Estimation: 0.5 day
 
 - Add the final stage of pushing the image to Dockerhub
-  - Story Points: 2
+  - Story Points: 4
   - Estimation: 1 day
 
-## Azure Cloud Learning Path (2.5 day)
+## Azure Cloud Learning Path (3 day)
 
 - Practice deploying virtual machines (VMs) in Azure .
 
-  - Story Points: 2
+  - Story Points: 3
   - Estimation: 1 day
 
 - Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
-  - Story Points: 2
-  - Estimation: 1.5 day
+  - Story Points: 4
+  - Estimation: 2 day
