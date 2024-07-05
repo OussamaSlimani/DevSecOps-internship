@@ -115,70 +115,24 @@
 ## SonarQube
 
 - [x] Explore SonarQube: Learn about its features and how it works.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [x] Install SonarQube.
-
-  - Story Points: 2
-  - Estimation: 1 day
-
 - [x] Configure SonarQube.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [x] Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
-
-  - Story Points: 4
-  - Estimation: 2 days
-
 - [x] Documentation for SonarQube.
-  - Story Points: 2
-  - Estimation: 1 day
 
 ## Hadolint
 
 - [x] Explore Hadolint: Learn about its features and how it works.
-
-  - Story Points: 3
-  - Estimation: 1 days
-
 - [x] Install and Configure Hadolint.
-
-  - Story Points: 2
-  - Estimation: 0.5 day
-
 - [x] Add Hadolint to the Docker project pipeline: Integrate it into your existing pipeline.
-
-  - Story Points: 4
-  - Estimation: 2 days
-
 - [x] Documentation for Hadolint.
-  - Story Points: 2
-  - Estimation: 1 day
 
 ## Dockle
 
 - [x] Explore Dockle: Learn about its features and how it works.
-
-  - Story Points: 3
-  - Estimation: 0.5 days
-
 - [x] Install and Configure Dockle.
-
-  - Story Points: 2
-  - Estimation: 0.5 day
-
-- [x] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
-
-  - Story Points: 4
-  - Estimation: 1 days
-
+- [x] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline
 - [x] Documentation for Dockle.
-  - Story Points: 2
-  - Estimation: 0.5 day
 
 ## Trivy
 
@@ -267,3 +221,14 @@
 - [ ] Configure alerts in Grafana based on Prometheus metrics.
   - Story Points: 2
   - Estimation: 1 day
+
+## Dockerhub
+
+- [ ] Learn how to push an image to Dockerhub
+
+  - Story Points: 2
+  - Estimation: 0.5 day
+
+- [ ] Add the final stage of pushing the image to Dockerhub
+  - Story Points: 2
+  - Estimation: 0.5 day

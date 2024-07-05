@@ -1,10 +1,10 @@
 # Sprint 5
 
-5 Jul - 12 Jul
+5 Jul - 12 Jul (6 day)
 
 ---
 
-## Trivy
+## Trivy (2 day)
 
 - Explore Trivy: Learn about its features and how it works.
 
@@ -25,7 +25,7 @@
   - Story Points: 2
   - Estimation: 0.5 day
 
-## OWASP ZAP
+## OWASP ZAP (2 day)
 
 - Explore OWASP ZAP: Learn about its features and how it works.
 
@@ -46,7 +46,18 @@
   - Story Points: 2
   - Estimation: 0.5 day
 
-## Azure Cloud Learning Path
+## Dockerhub (1.5 day)
+
+- Learn how to push an image to Dockerhub
+
+  - Story Points: 2
+  - Estimation: 0.5 day
+
+- Add the final stage of pushing the image to Dockerhub
+  - Story Points: 2
+  - Estimation: 1 day
+
+## Azure Cloud Learning Path (2.5 day)
 
 - Practice deploying virtual machines (VMs) in Azure .
 
@@ -55,4 +66,4 @@
 
 - Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
   - Story Points: 2
-  - Estimation: 2 day
+  - Estimation: 1.5 day
