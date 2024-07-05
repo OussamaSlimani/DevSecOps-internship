@@ -55,8 +55,8 @@
 - [x] Install and configure Docker.
 - [x] Learn how to write Dockerfiles.
 - [x] Deploy Docker containers locally to test the configuration.
-- [ ] Explore Docker Compose for managing multi-container applications.
-- [ ] Examples of using Docker in DevOps or DevSecOps processes.
+- [x] Explore Docker Compose for managing multi-container applications.
+- [x] Examples of using Docker in DevOps or DevSecOps processes.
 - [x] Documentation.
 
 ## Kubernetes
@@ -73,6 +73,7 @@
 ## Infrastructure as Code (IaC)
 
 - [ ] Learn the basic concepts.
+
 - [ ] Explore IaC tools like Terraform or AWS CloudFormation.
 
   - Story Points: 4
@@ -93,16 +94,6 @@
   - Estimation: 2 days
 
 ## Cloud deployment
-
-- [ ] Search for Cloud solution to practice real deployment for the app.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Configure CI/CD pipeline for automated deployments.
-
-  - Story Points: 3
-  - Estimation: 5 days
 
 - [ ] Deploy the application to a production environment.
 
@@ -184,53 +175,53 @@
 
 ## Trivy
 
-- [x] Explore Trivy: Learn about its features and how it works.
+- [ ] Explore Trivy: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [x] Install Trivy.
+- [ ] Install Trivy.
 
   - Story Points: 2
   - Estimation: 1 day
 
-- [x] Configure Trivy.
+- [ ] Configure Trivy.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [x] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
+- [ ] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [x] Documentation for Trivy.
+- [ ] Documentation for Trivy.
   - Story Points: 2
   - Estimation: 1 day
 
 ## OWASP ZAP
 
-- [x] Explore OWASP ZAP: Learn about its features and how it works.
+- [ ] Explore OWASP ZAP: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [x] Install OWASP ZAP.
+- [ ] Install OWASP ZAP.
 
   - Story Points: 2
   - Estimation: 1 day
 
-- [x] Configure OWASP ZAP.
+- [ ] Configure OWASP ZAP.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [x] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
+- [ ] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [x] Documentation for OWASP ZAP.
+- [ ] Documentation for OWASP ZAP.
   - Story Points: 2
   - Estimation: 1 day
 
