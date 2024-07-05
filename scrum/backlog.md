@@ -37,7 +37,14 @@
 
 - [x] Explore Azure.
 
-- [ ] Practice deploying virtual machines (VMs) in Azure and networking them.
+- [ ] Practice deploying virtual machines (VMs) in Azure .
+
+  - Story Points: 2
+  - Estimation: 1 day
+
+- [ ] Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
+  - Story Points: 2
+  - Estimation: 2 day
 
 ## Jenkins
 
