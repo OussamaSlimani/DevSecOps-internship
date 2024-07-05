@@ -14,7 +14,7 @@
 ## Jira
 
 - [x] Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
-- [ ] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
+- [x] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
   - Story Points: 1
   - Estimation: 1 day
 
@@ -26,7 +26,7 @@
 
 - [x] Search for a web starter project on GitHub to practice DevOps principles.
 
-- [ ] Get an Azure for Students account to access cloud resources for free.
+- [x] Get an Azure for Students account to access cloud resources for free.
 
   - Story Points: 1
   - Estimation: 1 day
@@ -53,8 +53,8 @@
 
 - [x] Learn the basic concepts.
 - [x] Install and configure Docker.
-- [ ] Learn how to write Dockerfiles.
-- [ ] Deploy Docker containers locally to test the configuration.
+- [x] Learn how to write Dockerfiles.
+- [x] Deploy Docker containers locally to test the configuration.
 - [ ] Explore Docker Compose for managing multi-container applications.
 - [ ] Examples of using Docker in DevOps or DevSecOps processes.
 - [x] Documentation.
@@ -122,121 +122,121 @@
 
 ## SonarQube
 
-- [ ] Explore SonarQube: Learn about its features and how it works.
+- [x] Explore SonarQube: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Install SonarQube.
+- [x] Install SonarQube.
 
   - Story Points: 2
   - Estimation: 1 day
 
-- [ ] Configure SonarQube.
+- [x] Configure SonarQube.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
+- [x] Add SonarQube to the PHP project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [ ] Documentation for SonarQube.
+- [x] Documentation for SonarQube.
   - Story Points: 2
   - Estimation: 1 day
 
 ## Hadolint
 
-- [ ] Explore Hadolint: Learn about its features and how it works.
+- [x] Explore Hadolint: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 1 days
 
-- [ ] Install and Configure Hadolint.
+- [x] Install and Configure Hadolint.
 
   - Story Points: 2
   - Estimation: 0.5 day
 
-- [ ] Add Hadolint to the Docker project pipeline: Integrate it into your existing pipeline.
+- [x] Add Hadolint to the Docker project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [ ] Documentation for Hadolint.
+- [x] Documentation for Hadolint.
   - Story Points: 2
   - Estimation: 1 day
 
 ## Dockle
 
-- [ ] Explore Dockle: Learn about its features and how it works.
+- [x] Explore Dockle: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 0.5 days
 
-- [ ] Install and Configure Dockle.
+- [x] Install and Configure Dockle.
 
   - Story Points: 2
   - Estimation: 0.5 day
 
-- [ ] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
+- [x] Add Dockle to the Docker project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 1 days
 
-- [ ] Documentation for Dockle.
+- [x] Documentation for Dockle.
   - Story Points: 2
   - Estimation: 0.5 day
 
 ## Trivy
 
-- [ ] Explore Trivy: Learn about its features and how it works.
+- [x] Explore Trivy: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Install Trivy.
+- [x] Install Trivy.
 
   - Story Points: 2
   - Estimation: 1 day
 
-- [ ] Configure Trivy.
+- [x] Configure Trivy.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
+- [x] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [ ] Documentation for Trivy.
+- [x] Documentation for Trivy.
   - Story Points: 2
   - Estimation: 1 day
 
 ## OWASP ZAP
 
-- [ ] Explore OWASP ZAP: Learn about its features and how it works.
+- [x] Explore OWASP ZAP: Learn about its features and how it works.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Install OWASP ZAP.
+- [x] Install OWASP ZAP.
 
   - Story Points: 2
   - Estimation: 1 day
 
-- [ ] Configure OWASP ZAP.
+- [x] Configure OWASP ZAP.
 
   - Story Points: 3
   - Estimation: 2 days
 
-- [ ] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
+- [x] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
 
   - Story Points: 4
   - Estimation: 2 days
 
-- [ ] Documentation for OWASP ZAP.
+- [x] Documentation for OWASP ZAP.
   - Story Points: 2
   - Estimation: 1 day
 
