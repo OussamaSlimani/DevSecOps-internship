@@ -34,3 +34,18 @@
 **Total Focus Duration:**
 
 - 6h 40min (16 pomodoros)
+
+**Today:**
+
+- Ensure the pipeline passes only if all stages are correct.
+- Try to update our project .
+
+**Challenges:**
+
+- No difficulties encountered.
+
+**Tomorrow:**
+
+- Start the new sprint, Sprint 5.
+- Explore Trivy: Learn about its features and how it works.
+- Install and Configure Trivy.
