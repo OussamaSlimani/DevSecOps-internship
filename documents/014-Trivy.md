@@ -2,6 +2,8 @@
 
 ---
 
+![Alt text](media/trivy.jpg)
+
 ## 1. Introduction
 
 Trivy is a comprehensive vulnerability scanner for containers and other artifacts, designed to provide security scanning during development phases. It helps in identifying vulnerabilities in container images and filesystems.
