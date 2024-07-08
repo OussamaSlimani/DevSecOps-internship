@@ -52,4 +52,3 @@
 - Documentation for Trivy.
 - add the stage of runing the docker image to jenkins.
 - Explore OWASP ZAP: Learn about its features and how it works.
-  

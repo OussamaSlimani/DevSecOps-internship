@@ -1,9 +1,10 @@
 # Backlog
 
+---
+
 ## Define Project Goals and Requirements
 
 - [x] Identify Project Goals and Requirements
-
 - [x] Documentation on DevOps, DevSecOps, DevOps tools, and Scrum.
 
 ## Scrum
@@ -15,45 +16,26 @@
 
 - [x] Get started with Jira by creating an account, setting up a project, and familiarizing yourself with the basic features.
 - [x] Conduct a retrospective with your Scrum team to gather feedback and improve team processes.
-  - Story Points: 1
-  - Estimation: 1 day
 
 ## Development Environment Setup
 
 - [x] Install Ubuntu on your development machine.
-
 - [x] Learn basic bash scripting to automate tasks in the terminal.
-
 - [x] Search for a web starter project on GitHub to practice DevOps principles.
-
 - [x] Get an Azure for Students account to access cloud resources for free.
-
-  - Story Points: 1
-  - Estimation: 1 day
-
 - [x] Make a roadmap with a timeline for completing each task.
 
 ## Azure Cloud Learning Path
 
 - [x] Explore Azure.
-
 - [ ] Practice deploying virtual machines (VMs) in Azure .
-
-  - Story Points: 2
-  - Estimation: 1 day
-
 - [ ] Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
-  - Story Points: 2
-  - Estimation: 2 day
 
 ## Jenkins
 
 - [x] Learn Jenkins (how to write scripts (Python, bash) on Jenkins, examples of using Jenkins in DevOps or DevSecOps processes).
-
 - [x] Install Jenkins.
-
 - [x] Configure Jenkins: Write scripts to launch Jenkins builds.
-
 - [x] Documentation for jenkins
 
 ## Docker Containerization
@@ -74,43 +56,19 @@
 - [ ] Deploy applications.
 - [ ] Resource management.
 - [ ] Document all aspects of Kubernetes deployment, including architecture, configurations, and operational procedures.
-  - Story Points: 8
-  - Estimation: 5 days
 
 ## Infrastructure as Code (IaC)
 
 - [ ] Learn the basic concepts.
-
-- [ ] Explore IaC tools like Terraform or AWS CloudFormation.
-
-  - Story Points: 4
-  - Estimation: 3 days
-
+- [ ] Explore IaC tools like Terraform or AWS CloudFormation.s
 - [ ] Deploy a sample infrastructure using Terraform scripts.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Learn version control for infrastructure configurations.
-
-  - Story Points: 1
-  - Estimation: 1 day
-
 - [ ] Integrate Terraform with your CI/CD pipeline for automated deployments.
-  - Story Points: 3
-  - Estimation: 2 days
 
 ## Cloud deployment
 
 - [ ] Deploy the application to a production environment.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Create documentation for the cloud deployment process.
-
-  - Story Points: 2
-  - Estimation: 1 day
 
 ## SonarQube
 
@@ -136,99 +94,31 @@
 
 ## Trivy
 
-- [ ] Explore Trivy: Learn about its features and how it works.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Install Trivy.
-
-  - Story Points: 2
-  - Estimation: 1 day
-
-- [ ] Configure Trivy.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
-- [ ] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
-
-  - Story Points: 4
-  - Estimation: 2 days
-
-- [ ] Documentation for Trivy.
-  - Story Points: 2
-  - Estimation: 1 day
+- [x] Explore Trivy: Learn about its features and how it works.
+- [x] Install Trivy.
+- [x] Configure Trivy.
+- [x] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
+- [x] Documentation for Trivy.
 
 ## OWASP ZAP
 
 - [ ] Explore OWASP ZAP: Learn about its features and how it works.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Install OWASP ZAP.
-
-  - Story Points: 2
-  - Estimation: 1 day
-
 - [ ] Configure OWASP ZAP.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
-
-  - Story Points: 4
-  - Estimation: 2 days
-
 - [ ] Documentation for OWASP ZAP.
-  - Story Points: 2
-  - Estimation: 1 day
 
 ## Monitoring and Logging
 
 - [ ] Learn the basic concepts of Monitoring and Logging.
-
-  - Story Points: 4
-  - Estimation: 3 days
-
 - [ ] Search monitoring tools (Prometheus and Grafana).
-
-  - Story Points: 4
-  - Estimation: 3 days
-
 - [ ] Install and configure Prometheus in your development environment.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Retrieve metrics from Prometheus.
-
-  - Story Points: 3
-  - Estimation: 1 day
-
 - [ ] Install and Configure Grafana in your development environment.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Create custom dashboards in Grafana to visualize Prometheus metrics.
-
-  - Story Points: 3
-  - Estimation: 2 days
-
 - [ ] Configure alerts in Grafana based on Prometheus metrics.
-  - Story Points: 2
-  - Estimation: 1 day
 
 ## Dockerhub
 
 - [ ] Learn how to push an image to Dockerhub
-
-  - Story Points: 2
-  - Estimation: 0.5 day
-
 - [ ] Add the final stage of pushing the image to Dockerhub
-  - Story Points: 2
-  - Estimation: 0.5 day
