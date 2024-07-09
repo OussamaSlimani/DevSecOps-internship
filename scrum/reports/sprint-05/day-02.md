@@ -38,9 +38,11 @@
 
 **Today:**
 
-- Start the new sprint, Sprint 5.
-- Explore Trivy: Learn about its features and how it works.
-- Install and Configure Trivy.
+- Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
+- Document Trivy usage.
+- Add the stage of running the Docker image to Jenkins.
+- Explore Dastardly.
+- start the Dastardly documentation .
 
 **Challenges:**
 
@@ -48,7 +50,6 @@
 
 **Tomorrow:**
 
-- Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
-- Documentation for Trivy.
-- add the stage of runing the docker image to jenkins.
-- Explore OWASP ZAP: Learn about its features and how it works.
+- Install and configure Dastardly.
+- Add Dastardly to the pipeline.
+- Learn how to push an image to dockerhub .
