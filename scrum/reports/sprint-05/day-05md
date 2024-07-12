@@ -24,3 +24,18 @@
 **Tomorrow:**
 
 ## Mariem
+- try again with Dastardly.
+- Learn how to push an image to Docker Hub.
+- Implement the stage to push the image to Docker Hub.
+- Add the final stage of pushing the image to Dockerhub
+
+**Challenges:**
+
+- facing problem with Dastardly .
+
+**Tomorrow:**
+
+-try again with Dastardly.
+- Explore OWASP ZAP .
+- Install and configure.
+- try to integrate OWASP ZAP in my pipeline .
