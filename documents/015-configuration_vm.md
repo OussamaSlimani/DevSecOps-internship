@@ -54,12 +54,6 @@
    apt install temurin-17-jdk
    ```
 
-6. Set the default Java version:
-
-   ```bash
-   /usr/bin/java --version
-   ```
-
 7. Exit the root shell:
 
    ```bash
