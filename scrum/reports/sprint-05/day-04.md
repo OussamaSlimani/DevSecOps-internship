@@ -29,12 +29,13 @@
 - Add the final stage of pushing the image to Dockerhub
 
 ## Mariem
+
 **Total Focus Duration:**
 
 - 6 hours and 15 minutes (15 pomodoros)
 
 **Today:**
-  
+
 - Integrate Dastardly into the pipeline.
 - Implement the stage to push the image to Docker Hub.
 - Configure Docker Hub credentials in Jenkins.
@@ -48,4 +49,3 @@
 - Learn how to push an image to Docker Hub.
 - Implement the stage to push the image to Docker Hub.
 - Add the final stage of pushing the image to Dockerhub
-

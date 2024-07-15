@@ -1,4 +1,4 @@
-# Daily Standup Meeting Report for Sprint 5, Day 5
+# Daily Standup Meeting Report for Sprint 5, Day 6
 
 ## Meeting: 10-07-2024 / 23:40 / 10min
 
@@ -21,9 +21,12 @@
 
 - Encounter errors when trying to give access to jenkins to push inti my repo.
 
-**Tomorrow:**
-
 ## Mariem
+
+- 6 hours and 15 minutes (15 pomodoros)
+
+**Today:**
+
 - try again with Dastardly.
 - Learn how to push an image to Docker Hub.
 - Implement the stage to push the image to Docker Hub.
@@ -32,10 +35,3 @@
 **Challenges:**
 
 - facing problem with Dastardly .
-
-**Tomorrow:**
-
--try again with Dastardly.
-- Explore OWASP ZAP .
-- Install and configure.
-- try to integrate OWASP ZAP in my pipeline .
