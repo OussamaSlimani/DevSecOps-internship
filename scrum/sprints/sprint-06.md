@@ -6,7 +6,7 @@
 
 ## Kubernetes
 
-- Learn the basic concepts. (udemy course - Practical Kubernetes Guide)
+- Learn the basic concepts of Kubernetes.
 
   - Story Points: 1
   - Estimation: 2 day
