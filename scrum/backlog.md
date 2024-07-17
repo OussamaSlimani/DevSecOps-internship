@@ -120,5 +120,5 @@
 
 ## Dockerhub
 
-- [ ] Learn how to push an image to Dockerhub
-- [ ] Add the final stage of pushing the image to Dockerhub
+- [x] Learn how to push an image to Dockerhub
+- [x] Add the final stage of pushing the image to Dockerhub

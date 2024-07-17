@@ -4,26 +4,24 @@
 
 ---
 
-## Azure Cloud Learning Path (2 day)
+## Kubernetes
 
-- Practice deploying virtual machines (VMs) in Azure .
+- Learn the basic concepts. (udemy course - Practical Kubernetes Guide)
 
-  - Story Points: 2
-  - Estimation: 0.5 day
-
-- Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
-
-  - Story Points: 4
-  - Estimation: 1.5 day
-
-## Cloud deployment (2.5 day)
-
-- Deploy the application to a production environment.
-
-  - Story Points: 4
+  - Story Points: 1
   - Estimation: 2 day
 
-- Create documentation for the cloud deployment process.
+- Learn to write Kubernetes configuration files using YAML.
+
+  - Story Points: 1
+  - Estimation: 1 day
+
+- Deploy our applications.
+
+  - Story Points: 1
+  - Estimation: 1 day
+
+- Document all aspects of Kubernetes deployment, including architecture, configurations, and operational procedures.
 
   - Story Points: 1
   - Estimation: 0.5 day
