@@ -27,3 +27,16 @@
 ## Mariem
 
 **Total Focus Duration:**
+- 6 hours and 15 minutes (15 pomodoros)
+
+**Today:**
+
+- Learn the basic concepts of Kubernetes.
+
+**Challenges:**
+
+
+
+**Tomorrow:**
+
+- Learn more about the basic concepts of Kubernetes.
