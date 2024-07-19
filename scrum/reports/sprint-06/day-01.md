@@ -35,7 +35,7 @@
 
 **Challenges:**
 
-
+- No difficulties encountered.
 
 **Tomorrow:**
 
