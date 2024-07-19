@@ -109,6 +109,34 @@ minikube service flare-bank-service --url
 
 - This URL will allow you to access your application running inside Minikube.
 
+### 3.8. Stop and delete the container running in Kubernetes
+
+- Delete the associated Kubernetes resources (the deployment and service)
+
+1. Stop and Delete the Deployment:
+
+   ```sh
+   kubectl delete deployment flare-bank-deployment
+   ```
+
+2. Delete the Service:
+   ```sh
+   kubectl delete service flare-bank-service
+   ```
+
+Stop and delete the Minikube cluster
+
+1. Stop Minikube:
+
+   ```sh
+   minikube stop
+   ```
+
+2. Delete Minikube Cluster:
+   ```sh
+   minikube delete
+   ```
+
 ---
 
 ## 4. Set up Minikube (image built from Dockerfile)
