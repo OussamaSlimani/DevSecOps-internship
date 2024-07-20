@@ -22,3 +22,19 @@
 - Search monitoring tools (Prometheus and Grafana).
 
 ---
+
+## Mariem
+
+**Today:**
+
+- successfully deployed the PHP application using Minikube and Kubectl.
+- Prepare the sprint 7.
+
+**Challenges:**
+
+- No difficulties encountered.
+
+**Monday 22 July:**
+
+- Learn the basic concepts of Monitoring and Logging.
+- Search monitoring tools (Prometheus and Grafana).
