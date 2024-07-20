@@ -20,3 +20,18 @@
 - Find a solution to deploy the PHP application using Minikube and Kubectl.
 
 ---
+
+## Mariem
+
+**Today:**
+
+- Install and configure tools for Kubernetes: Minikube and Kubectl.
+
+
+**Challenges:**
+
+- N diffucltes 
+
+**Tomorrow:**
+
+- Deploy the PHP application using these tools.
