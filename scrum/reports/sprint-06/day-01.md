@@ -27,6 +27,7 @@
 ## Mariem
 
 **Total Focus Duration:**
+
 - 6 hours and 15 minutes (15 pomodoros)
 
 **Today:**

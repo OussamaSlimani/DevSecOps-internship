@@ -20,13 +20,14 @@
 
 **Tomorrow:**
 
-- Learn how to use Kubernetes with azure.
+- Learn how to use Kubernetes in local machine
 
 ---
 
 ## Mariem
 
 **Total Focus Duration:**
+
 - 6 hours and 15 minutes (15 pomodoros)
 
 **Today:**
@@ -40,4 +41,4 @@
 **Tomorrow:**
 
 - Install Kubernetes On Ubuntu
-- Run Kubernetes locally 
+- Run Kubernetes locally
