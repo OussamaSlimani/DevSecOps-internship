@@ -41,17 +41,19 @@ helm install grafana grafana/grafana --namespace monitoring
 ### 6.1. Access Prometheus
 
 ```sh
-kubectl --namespace monitoring port-forward svc/prometheus-server 9090:80
+kubectl --namespace monitoring port-forward svc/prometheus-server 9090:80 &
 ```
 
+you can type ctrl + c without problem.
 Open your browser and navigate to `http://localhost:9090`.
 
 ### 6.2. Access Grafana
 
 ```sh
-kubectl --namespace monitoring port-forward svc/grafana 3000:80
+kubectl --namespace monitoring port-forward svc/grafana 3000:80 &
 ```
 
+you can type ctrl + c without problem.
 Open your browser and navigate to `http://localhost:3000`.
 
 ## 7. Get Grafana Admin Password
