@@ -2,6 +2,20 @@
 
 ---
 
+## 0. Ensure that Minikube is running and the application is accessible.
+
+Start Minikube
+
+```sh
+minikube start
+```
+
+Get the URL for the service:
+
+```sh
+minikube service flare-bank-service --url
+```
+
 ## 1. Install Helm
 
 ```sh
