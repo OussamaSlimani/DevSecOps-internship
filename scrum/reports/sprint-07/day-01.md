@@ -35,6 +35,16 @@
 
 **Today:**
 
+- Learn the basic concepts of Monitoring and Logging.
+- Search monitoring tools (Prometheus and Grafana).
+  
 **Challenges:**
 
+- No difficulties encountered.
+
 **Tomorrow:**
+
+
+- Install and configure Prometheus in your development environment.
+- Retrieve metrics from Prometheus.
+- Install and configure Grafana in your development environment.
