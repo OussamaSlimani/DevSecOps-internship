@@ -38,8 +38,6 @@ kubectl create namespace monitoring
 
 ## 4. Install Prometheus using Helm
 
-Install Prometheus
-
 ```sh
 helm install prometheus prometheus-community/prometheus --namespace monitoring
 ```
@@ -48,6 +46,11 @@ helm install prometheus prometheus-community/prometheus --namespace monitoring
 
 ```sh
 helm install grafana grafana/grafana --namespace monitoring
+```
+
+- Wait until the Prometheus and Grafana pods are running successfully. You can check their status with this command:
+```sh
+kubectl get pods --namespace monitoring
 ```
 
 ## 6. Access Prometheus and Grafana
