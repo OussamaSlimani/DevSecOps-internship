@@ -1,7 +1,5 @@
 # Daily Standup Meeting Report for Sprint 7, Day 1
 
-## Meeting: 22-07-2024 / 23:40 / 10min
-
 ---
 
 ## Oussama
@@ -37,13 +35,12 @@
 
 - Learn the basic concepts of Monitoring and Logging.
 - Search monitoring tools (Prometheus and Grafana).
-  
+
 **Challenges:**
 
 - No difficulties encountered.
 
 **Tomorrow:**
-
 
 - Install and configure Prometheus in your development environment.
 - Retrieve metrics from Prometheus.
