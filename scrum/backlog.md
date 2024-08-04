@@ -25,12 +25,6 @@
 - [x] Get an Azure for Students account to access cloud resources for free.
 - [x] Make a roadmap with a timeline for completing each task.
 
-## Azure Cloud Learning Path
-
-- [x] Explore Azure.
-- [ ] Practice deploying virtual machines (VMs) in Azure .
-- [ ] Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
-
 ## Jenkins
 
 - [x] Learn Jenkins (how to write scripts (Python, bash) on Jenkins, examples of using Jenkins in DevOps or DevSecOps processes).
@@ -50,25 +44,12 @@
 
 ## Kubernetes
 
-- [ ] Learn the basic concepts.
-- [ ] Install Kubernetes on a cluster of machines (physical, virtual, or cloud) and configure the cluster nodes to communicate with each other.
-- [ ] Learn to write Kubernetes configuration files (manifests) using YAML.
-- [ ] Deploy applications.
-- [ ] Resource management.
-- [ ] Document all aspects of Kubernetes deployment, including architecture, configurations, and operational procedures.
-
-## Infrastructure as Code (IaC)
-
-- [ ] Learn the basic concepts.
-- [ ] Explore IaC tools like Terraform or AWS CloudFormation.s
-- [ ] Deploy a sample infrastructure using Terraform scripts.
-- [ ] Learn version control for infrastructure configurations.
-- [ ] Integrate Terraform with your CI/CD pipeline for automated deployments.
-
-## Cloud deployment
-
-- [ ] Deploy the application to a production environment.
-- [ ] Create documentation for the cloud deployment process.
+- [x] Learn the basic concepts.
+- [x] Install Kubernetes on a cluster of machines (physical, virtual, or cloud) and configure the cluster nodes to communicate with each other.
+- [x] Learn to write Kubernetes configuration files (manifests) using YAML.
+- [x] Deploy applications.
+- [x] Resource management.
+- [x] Document all aspects of Kubernetes deployment, including architecture, configurations, and operational procedures.
 
 ## SonarQube
 
@@ -100,6 +81,27 @@
 - [x] Add Trivy to the Docker project pipeline: Integrate it into your existing pipeline.
 - [x] Documentation for Trivy.
 
+## Monitoring and Logging
+
+- [x] Learn the basic concepts of Monitoring and Logging.
+- [x] Search monitoring tools (Prometheus and Grafana).
+- [x] Install and configure Prometheus in your development environment.
+- [x] Retrieve metrics from Prometheus.
+- [x] Install and Configure Grafana in your development environment.
+- [x] Create custom dashboards in Grafana to visualize Prometheus metrics.
+- [x] Configure alerts in Grafana based on Prometheus metrics.
+
+## Dockerhub
+
+- [x] Learn how to push an image to Dockerhub
+- [x] Add the final stage of pushing the image to Dockerhub
+
+## Azure Cloud Learning Path
+
+- [x] Explore Azure.
+- [x] Practice deploying virtual machines (VMs) in Azure .
+- [ ] Install Jenkins on a virtual machine (VM) and work within the VM, not locally.
+
 ## OWASP ZAP
 
 - [ ] Explore OWASP ZAP: Learn about its features and how it works.
@@ -108,17 +110,15 @@
 - [ ] Add OWASP ZAP to the web application project pipeline: Integrate it into your existing pipeline.
 - [ ] Documentation for OWASP ZAP.
 
-## Monitoring and Logging
+## Infrastructure as Code (IaC)
 
-- [ ] Learn the basic concepts of Monitoring and Logging.
-- [ ] Search monitoring tools (Prometheus and Grafana).
-- [ ] Install and configure Prometheus in your development environment.
-- [ ] Retrieve metrics from Prometheus.
-- [ ] Install and Configure Grafana in your development environment.
-- [ ] Create custom dashboards in Grafana to visualize Prometheus metrics.
-- [ ] Configure alerts in Grafana based on Prometheus metrics.
+- [ ] Learn the basic concepts.
+- [ ] Explore IaC tools like Terraform.
+- [ ] Deploy a sample infrastructure using Terraform scripts.
+- [ ] Learn version control for infrastructure configurations.
+- [ ] Integrate Terraform with your CI/CD pipeline for automated deployments.
 
-## Dockerhub
+## Cloud deployment
 
-- [x] Learn how to push an image to Dockerhub
-- [x] Add the final stage of pushing the image to Dockerhub
+- [ ] Deploy the application to a production environment.
+- [ ] Create documentation for the cloud deployment process.
