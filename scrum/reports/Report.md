@@ -9,8 +9,10 @@
 ####  1.4.1 Problématique 
 #### 1.4.2 etude de l’existant 
 #### 1.4.3 Présentation générale
- 1.4.3.1 contexte de projet 
+ 1.4.3.1 contexte de projet
+ 
  1.4.3.2 objectifs de projet 
+ 
  1.4.3.3 Solution proposée 
 ### 1.5 méthodologie de travail 
 #### 1.5.1 L’approche agile 
